@@ -1,0 +1,253 @@
+==============================================================================
+  NX GEOMETRIC FEATURE EXTRACTION REPORT  v2.0
+==============================================================================
+  Part          : model1
+  Full path     : D:\NX_FeatureReports\model1.prt
+  Generated     : 2026-03-25  14:26:14
+  NX version    : v2506
+  Total features: 11
+  Coordinates   : MCS  (mm)
+==============================================================================
+
+  FEATURE SUMMARY BY CATEGORY
+------------------------------------------------------------------------------
+  ▶ HOLE FEATURES
+    HOLE                                                 1  instance(s)
+
+  ▶ FINISHING FEATURES
+    CHAMFER                                              2  instance(s)
+    FILLET / ROUND                                       2  instance(s)
+
+  ▶ FORM FEATURES
+    PLANAR FACE                                          6  instance(s)
+
+==============================================================================
+
+------------------------------------------------------------------------------
+  ID        : #0001   Body: Body-1   Category: FINISHING FEATURES
+  Type      : FILLET / ROUND
+  Source    : FACE 1 {(428.5355339059328,159.04,228.5355339059327) EXTRUDE(2)}
+
+  MCS Position (feature centre)
+       X =      +428.5355 mm
+       Y =      +159.0400 mm
+       Z =      +228.5355 mm
+  Axis / Normal Direction (unit vector — true computed)
+       dX = +0.000000
+       dY = +0.000000
+       dZ = +1.000000
+  Dimensions
+       Fillet Radius    (mm)                    = +5.0000
+       Fillet Diameter  (mm)                    = +10.0000
+       Variable radius                          = NO
+
+------------------------------------------------------------------------------
+  ID        : #0002   Body: Body-1   Category: FORM FEATURES
+  Type      : PLANAR FACE
+  Source    : FACE 120 {(215,160,0) EXTRUDE(2)}
+
+  MCS Position (feature centre)
+       X =      +215.0000 mm
+       Y =      +160.0000 mm
+       Z =        +0.0000 mm
+  Axis / Normal Direction (unit vector — true computed)
+       dX = +0.000000
+       dY = +0.000000
+       dZ = +1.000000
+  Dimensions
+       Area (approx)  (mm²)                     = +34400.0000
+       Max Edge Length (mm)                     = +430.0000
+       Min Edge Length (mm)                     = +320.0000
+       Edge count                               = 5
+         Edge 1 Length (mm)                     = +430.0000
+         Edge 2 Length (mm)                     = +408.4070
+         Edge 3 Length (mm)                     = +320.0000
+
+------------------------------------------------------------------------------
+  ID        : #0003   Body: Body-1   Category: FINISHING FEATURES
+  Type      : FILLET / ROUND
+  Source    : FACE 1 {(152.0710678118655,160,2.9289321881345) EXTRUDE(2)}
+
+  MCS Position (feature centre)
+       X =      +152.0711 mm
+       Y =      +160.0000 mm
+       Z =        +2.9289 mm
+  Axis / Normal Direction (unit vector — true computed)
+       dX = +0.000000
+       dY = +0.000000
+       dZ = +1.000000
+  Dimensions
+       Fillet Radius    (mm)                    = +10.0000
+       Fillet Diameter  (mm)                    = +20.0000
+       Variable radius                          = NO
+
+------------------------------------------------------------------------------
+  ID        : #0004   Body: Body-1   Category: FORM FEATURES
+  Type      : PLANAR FACE
+  Source    : FACE 140 {(0,160,115) EXTRUDE(2)}
+
+  MCS Position (feature centre)
+       X =        +0.0000 mm
+       Y =      +160.0000 mm
+       Z =      +115.0000 mm
+  Axis / Normal Direction (unit vector — true computed)
+       dX = +0.000000
+       dY = +0.000000
+       dZ = +1.000000
+  Dimensions
+       Max Edge Length (mm)                     = +320.0000
+       Min Edge Length (mm)                     = +7.0711
+       Edge count                               = 5
+         Edge 1 Length (mm)                     = +320.0000
+         Edge 2 Length (mm)                     = +315.0000
+         Edge 3 Length (mm)                     = +230.0000
+         Edge 4 Length (mm)                     = +225.0000
+         Edge 5 Length (mm)                     = +7.0711
+
+------------------------------------------------------------------------------
+  ID        : #0005   Body: Body-1   Category: FORM FEATURES
+  Type      : PLANAR FACE
+  Source    : FACE 150 {(215,0,112.5) EXTRUDE(2)}
+
+  MCS Position (feature centre)
+       X =      +215.0000 mm
+       Y =        +0.0000 mm
+       Z =      +112.5000 mm
+  Axis / Normal Direction (unit vector — true computed)
+       dX = +0.000000
+       dY = +0.000000
+       dZ = +1.000000
+  Dimensions
+       Max Edge Length (mm)                     = +430.0000
+       Min Edge Length (mm)                     = +225.0000
+       Edge count                               = 4
+         Edge 1 Length (mm)                     = +430.0000
+         Edge 2 Length (mm)                     = +225.0000
+
+------------------------------------------------------------------------------
+  ID        : #0006   Body: Body-1   Category: FORM FEATURES
+  Type      : PLANAR FACE
+  Source    : FACE 170 {(215,319.9999999999999,115) EXTRUDE(2)}
+
+  MCS Position (feature centre)
+       X =      +215.0000 mm
+       Y =      +320.0000 mm
+       Z =      +115.0000 mm
+  Axis / Normal Direction (unit vector — true computed)
+       dX = +0.000000
+       dY = +0.000000
+       dZ = +1.000000
+  Dimensions
+       Area (approx)  (mm²)                     = +0.0000
+       Max Edge Length (mm)                     = +430.0000
+       Min Edge Length (mm)                     = +7.8540
+       Edge count                               = 5
+         Edge 1 Length (mm)                     = +430.0000
+         Edge 2 Length (mm)                     = +425.0000
+         Edge 3 Length (mm)                     = +230.0000
+         Edge 4 Length (mm)                     = +225.0000
+         Edge 5 Length (mm)                     = +7.8540
+
+------------------------------------------------------------------------------
+  ID        : #0007   Body: Body-1   Category: FORM FEATURES
+  Type      : PLANAR FACE
+  Source    : FACE 160 {(430,160,112.5) EXTRUDE(2)}
+
+  MCS Position (feature centre)
+       X =      +430.0000 mm
+       Y =      +160.0000 mm
+       Z =      +112.5000 mm
+  Axis / Normal Direction (unit vector — true computed)
+       dX = +0.000000
+       dY = +0.000000
+       dZ = +1.000000
+  Dimensions
+       Max Edge Length (mm)                     = +320.0000
+       Min Edge Length (mm)                     = +225.0000
+       Edge count                               = 4
+         Edge 1 Length (mm)                     = +320.0000
+         Edge 2 Length (mm)                     = +225.0000
+
+------------------------------------------------------------------------------
+  ID        : #0008   Body: Body-1   Category: HOLE FEATURES
+  Type      : HOLE — SIMPLE (THROUGH)
+  Source    : FACE 180 {(265,160,115) EXTRUDE(2)}
+
+  MCS Position (feature centre)
+       X =      +265.0000 mm
+       Y =      +160.0000 mm
+       Z =      +115.0000 mm
+  Axis / Normal Direction (unit vector — true computed)
+       dX = +0.000000
+       dY = +0.000000
+       dZ = +1.000000
+  Dimensions
+       Diameter         (mm)                    = +110.0000
+       Depth            (mm)                    = +230.0000
+       Entry Chamfer Angle (deg)                = +45.0000
+       Entry Chamfer Off.  (mm)                 = +10.0000
+       Through-hole                             = YES
+
+------------------------------------------------------------------------------
+  ID        : #0009   Body: Body-1   Category: FINISHING FEATURES
+  Type      : CHAMFER
+  Source    : FACE 1 {(150,160,225) EXTRUDE(2)}
+
+  MCS Position (feature centre)
+       X =      +150.0000 mm
+       Y =      +160.0000 mm
+       Z =      +225.0000 mm
+  Axis / Normal Direction (unit vector — true computed)
+       dX = +0.000000
+       dY = +0.000000
+       dZ = +1.000000
+  Dimensions
+       Chamfer Dim 1    (mm)                    = +10.0000
+       Chamfer Dim 2    (mm)                    = +10.0000
+       Chamfer Type                             = 0
+       Weld prep                                = NO
+
+------------------------------------------------------------------------------
+  ID        : #0010   Body: Body-1   Category: FINISHING FEATURES
+  Type      : CHAMFER
+  Source    : FACE 1 {(216.29,2.5,227.5) EXTRUDE(2)}
+
+  MCS Position (feature centre)
+       X =      +216.2900 mm
+       Y =        +2.5000 mm
+       Z =      +227.5000 mm
+  Axis / Normal Direction (unit vector — true computed)
+       dX = +0.000000
+       dY = +0.000000
+       dZ = +1.000000
+  Dimensions
+       Chamfer Dim 1    (mm)                    = +5.0000
+       Chamfer Dim 2    (mm)                    = +5.0000
+       Chamfer Type                             = 0
+       Weld prep                                = NO
+
+------------------------------------------------------------------------------
+  ID        : #0011   Body: Body-1   Category: FORM FEATURES
+  Type      : PLANAR FACE
+  Source    : FACE 130 {(212.5,162.5,230) EXTRUDE(2)}
+
+  MCS Position (feature centre)
+       X =      +212.5000 mm
+       Y =      +162.5000 mm
+       Z =      +230.0000 mm
+  Axis / Normal Direction (unit vector — true computed)
+       dX = +0.000000
+       dY = +0.000000
+       dZ = +1.000000
+  Dimensions
+       Area (approx)  (mm²)                     = +925.0000
+       Max Edge Length (mm)                     = +425.0000
+       Min Edge Length (mm)                     = +315.0000
+       Edge count                               = 5
+         Edge 1 Length (mm)                     = +425.0000
+         Edge 2 Length (mm)                     = +408.4070
+         Edge 3 Length (mm)                     = +315.0000
+
+==============================================================================
+  END OF REPORT
+==============================================================================
